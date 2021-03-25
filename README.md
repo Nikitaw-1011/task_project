@@ -4,7 +4,7 @@ Login2explore project
 
 1) Title of the Project: Student Detail Form
 
-2) Description: Here we can store Student ID, Name, Address and Email id using JSON Power DB.
+2) Description: Here we can store Student ID, Name, Address and Email id using JSON Power DB. (Open Master Branch for code)
 
 3) Benefits of using JsonPowerDB: 
       Simplest way to retrieve data in a JSON format.
